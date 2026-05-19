@@ -811,4 +811,10 @@ A: Yes, CrewAI fully supports human-in-the-loop workflows, allowing seamless col
 
 </details>
 
+install
+```
+uv venv
+uv pip install -e .
+```
+
 [个人理解](docs/zh/README.md)
